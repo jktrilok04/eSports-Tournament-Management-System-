@@ -18,7 +18,7 @@ The **Tournament Management System** is a Java-based application that allows adm
 ## Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/tournament-management.git
+   git clone https://github.com/jktrilok04/eSports-Tournament-Management-System-.git
    ```
 2. **Navigate to the project directory:**
    ```sh
